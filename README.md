@@ -9,7 +9,7 @@ This repository contains my current and on-going Management Information System p
 
 - 
 
-### Advanced Database Design i.e.(MS Access)
+### Advanced Database Applications i.e.(MS Access)
 
 - 
 
