@@ -4,6 +4,8 @@
 
 ### Project Details
 
+- [Baseball](https://github.com/ephremglu/Management-Information-System/blob/main/Baseball/glushchenko%2CeBaseballLec02.accdb)
+
 (a) Display the item id, description, cost, and units on hand of all items supplied by “Beverage Holders” (We only know this criteria)
 
 (b) Display the item id, description, and on-hand value (unitsonhand*cost) of all items.
