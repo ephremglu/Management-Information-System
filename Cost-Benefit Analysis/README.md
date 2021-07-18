@@ -6,7 +6,7 @@
 
 - [Cost-Benefit Analysis](https://github.com/ephremglu/Management-Information-System/blob/main/Cost-Benefit%20Analysis/Ephrem%20Glushchenko%20Ch01HW.xlsx)
 
-Martin is working to develop a preliminary cost–benefi t analysis for a new client-server system. He has identifi ed a number 
+Martin is working to develop a preliminary cost–benefi t analysis for a new client-server system. He has identifi ed a number 
 of cost factors and values for the new system, summarized in 
 the following tables: 
 
