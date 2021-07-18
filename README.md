@@ -45,4 +45,4 @@ This repository contains my current and on-going Management Information System p
 
 ## License & Copywrite
 
-[©](https://github.com/ephremglu/Management-Information-System/blob/main/LICENSE) Ephrem Glushchenko, https://ephremglu.github.io/
+[CC BY-NC-ND ](https://github.com/ephremglu/Management-Information-System/blob/main/LICENSE), © Ephrem Glushchenko, https://ephremglu.github.io/
